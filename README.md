@@ -1,5 +1,4 @@
-
-##### 杨峰 C++软件工程师 itisyang@126.com 17680159303  
+#### 杨峰 C++软件工程师 itisyang@126.com 17680159303  
 
 <img src='https://gitee.com/itisyang/images/raw/master/photo_m1.jpg' align='right'>
 
